@@ -4,7 +4,7 @@ This repository contains the full Python/Jupyter implementation of **Guided Harm
 
 **“Generative Stochastic Optimal Transport: Guided Harmonic Path-Integral Diffusion.”**  
 Michael (Misha) Chertkov, University of Arizona  
-(to appear on arXiv shortly)
+(see GuidedPID.pdf + to appear on arXiv shortly)
 
 ---
 
